@@ -1,0 +1,7 @@
+bin/
+obj/
+
+# Ignore user-specific files
+.vscode/
+*.user
+*.suo
