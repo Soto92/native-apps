@@ -2,6 +2,14 @@
 
 A simple Todo List application built with WPF and .NET Core.
 
+![IMG](/windows/TodoListApp/demo/demo.png)
+
+## Command to create the app
+
+```
+ dotnet new wpf -o TodoListApp
+```
+
 ## Prerequisites
 
 Before you begin, ensure you have the following installed on your machine:
